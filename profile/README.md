@@ -1,5 +1,5 @@
-<img width="1600" height="400" alt="WhatsApp Image 2026-09-12 at 19 00 28" src="https://github.com/user-attachments/assets/eda6d629-564c-4827-ae47-cd47d569df52" />
-
+<img width="1600" height="400" alt="lamfo_banner_final" src="https://github.com/user-attachments/assets/7cab5eb9-f189-401f-91b0-1118f260b902" />
+<br>
 <p align="left">
   📍 Parque Científico e Tecnológico da UnB - Asa Norte, Brasília - DF, 70904-970
   <br>
